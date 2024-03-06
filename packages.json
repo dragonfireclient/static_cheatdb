@@ -1,0 +1,262 @@
+[
+
+	{
+	"name": "autodupe",
+	"title": "autodupe",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/autodupe/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "autoeat",
+	"title": "autoeat",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/autoeat/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "autokey",
+	"title": "autokey",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/autokey/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "autotool",
+	"title": "autotool",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/autotool/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "basic_moves",
+	"title": "basic_moves",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/basic_moves/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "bowaimbot",
+	"title": "bowaimbot",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/bowaimbot/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "chateffects",
+	"title": "chateffects",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/chateffects/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "crystalpvp",
+	"title": "crystalpvp",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/crystalpvp/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "deathmessages",
+	"title": "deathmessages",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/deathmessages/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "digcustom",
+	"title": "digcustom",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/digcustom/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "diglib",
+	"title": "diglib",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/diglib/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "draining",
+	"title": "draining",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/draining/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "enderchest",
+	"title": "enderchest",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/enderchest/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "fishbot",
+	"title": "fishbot",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/fishbot/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "invutil",
+	"title": "invutil",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/invutil/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "karaoke",
+	"title": "karaoke",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/karaoke/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "killaura",
+	"title": "killaura",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/killaura/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "mclminer",
+	"title": "mclminer",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/mclminer/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "mcl_find_strongholds",
+	"title": "mcl_find_strongholds",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/mcl_find_strongholds/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "nametags",
+	"title": "nametags",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/nametags/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "nlist",
+	"title": "nlist",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/nlist/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "noweather",
+	"title": "noweather",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/noweather/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "open_inv",
+	"title": "open_inv",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/open_inv/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "pathfinding",
+	"title": "pathfinding",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/pathfinding/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "perlin",
+	"title": "perlin",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/perlin/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+
+	{
+	"name": "physics_override",
+	"title": "physics_override",
+	"author": "dragonfireclient",
+	"download_url": "https://github.com/dragonfireclient/physics_override/archive/refs/heads/master.zip",
+	"raw_deps": "",
+	"type": "mod",
+	"release": 1
+	},
+]
