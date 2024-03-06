@@ -1,262 +1,282 @@
 [
-
-	{
-	"name": "autodupe",
-	"title": "autodupe",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/autodupe/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "autoeat",
-	"title": "autoeat",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/autoeat/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "autokey",
-	"title": "autokey",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/autokey/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "autotool",
-	"title": "autotool",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/autotool/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "basic_moves",
-	"title": "basic_moves",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/basic_moves/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "bowaimbot",
-	"title": "bowaimbot",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/bowaimbot/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "chateffects",
-	"title": "chateffects",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/chateffects/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "crystalpvp",
-	"title": "crystalpvp",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/crystalpvp/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "deathmessages",
-	"title": "deathmessages",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/deathmessages/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "digcustom",
-	"title": "digcustom",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/digcustom/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "diglib",
-	"title": "diglib",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/diglib/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "draining",
-	"title": "draining",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/draining/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "enderchest",
-	"title": "enderchest",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/enderchest/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "fishbot",
-	"title": "fishbot",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/fishbot/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "invutil",
-	"title": "invutil",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/invutil/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "karaoke",
-	"title": "karaoke",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/karaoke/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "killaura",
-	"title": "killaura",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/killaura/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "mclminer",
-	"title": "mclminer",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/mclminer/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "mcl_find_strongholds",
-	"title": "mcl_find_strongholds",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/mcl_find_strongholds/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "nametags",
-	"title": "nametags",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/nametags/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "nlist",
-	"title": "nlist",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/nlist/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "noweather",
-	"title": "noweather",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/noweather/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "open_inv",
-	"title": "open_inv",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/open_inv/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "pathfinding",
-	"title": "pathfinding",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/pathfinding/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "perlin",
-	"title": "perlin",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/perlin/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
-
-	{
-	"name": "physics_override",
-	"title": "physics_override",
-	"author": "dragonfireclient",
-	"download_url": "https://github.com/dragonfireclient/physics_override/archive/refs/heads/master.zip",
-	"raw_deps": "",
-	"type": "mod",
-	"release": 1
-	},
+  {
+    "name": "autodupe",
+    "title": "autodupe",
+    "author": "dragonfireclient",
+    "short_description": "A dragonfire CSM to automatically dupe in MineClone2",
+    "download_url": "https://github.com/dragonfireclient/autodupe/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "autoeat",
+    "title": "autoeat",
+    "author": "dragonfireclient",
+    "short_description": "A dragonfire CSM to automatically eat when a certain hunger is reached (MineClone2).",
+    "download_url": "https://github.com/dragonfireclient/autoeat/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "autokey",
+    "title": "autokey",
+    "author": "dragonfireclient",
+    "short_description": "A dragonfire CSM to automatically press keys (Includes AutoSneak and AutoSprint)",
+    "download_url": "https://github.com/dragonfireclient/autokey/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "autotool",
+    "title": "autotool",
+    "author": "dragonfireclient",
+    "short_description": "A dragonfire CSM to automatically select the best tool for digging a node",
+    "download_url": "https://github.com/dragonfireclient/autotool/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "basic_moves",
+    "title": "basic_moves",
+    "author": "dragonfireclient",
+    "short_description": "basic moves for dragonfire, fly, tp etc.",
+    "download_url": "https://github.com/dragonfireclient/basic_moves/archive/refs/heads/master.zip",
+    "raw_deps": "wasplib, poi",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "bowaimbot",
+    "title": "bowaimbot",
+    "author": "dragonfireclient",
+    "short_description": "A dragonfire CSM to automatically aim at players (calculates gravity in)",
+    "download_url": "https://github.com/dragonfireclient/bowaimbot/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "chateffects",
+    "title": "chateffects",
+    "author": "dragonfireclient",
+    "short_description": "A dragonfire CSM that adds Chat Effects (Color, Reversed)",
+    "download_url": "https://github.com/dragonfireclient/chateffects/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "crystalpvp",
+    "title": "crystalpvp",
+    "author": "dragonfireclient",
+    "short_description": "A dragonfire CSM to automatically use end crystals and totems (Includes AutoTotem)",
+    "download_url": "https://github.com/dragonfireclient/crystalpvp/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "deathmessages",
+    "title": "deathmessages",
+    "author": "dragonfireclient",
+    "short_description": "A dragonfire CSM that marks MineClone2 death messages",
+    "download_url": "https://github.com/dragonfireclient/deathmessages/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "digcustom",
+    "title": "digcustom",
+    "author": "dragonfireclient",
+    "short_description": "A dragonfire CSM to automatically dig custom nodes",
+    "download_url": "https://github.com/dragonfireclient/digcustom/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "diglib",
+    "title": "diglib",
+    "author": "dragonfireclient",
+    "short_description": "",
+    "download_url": "https://github.com/dragonfireclient/diglib/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "draining",
+    "title": "draining",
+    "author": "dragonfireclient",
+    "short_description": "Everything you need to drain Clamity Spawn!",
+    "download_url": "https://github.com/dragonfireclient/draining/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "enderchest",
+    "title": "enderchest",
+    "author": "dragonfireclient",
+    "short_description": "A dragonfire CSM that allows to to access your Ender Inventory in MineClone2 anytime",
+    "download_url": "https://github.com/dragonfireclient/enderchest/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "fishbot",
+    "title": "fishbot",
+    "author": "dragonfireclient",
+    "short_description": "fishbot",
+    "download_url": "https://github.com/dragonfireclient/fishbot/archive/refs/heads/master.zip",
+    "raw_deps": "wasplib",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "invutil",
+    "title": "invutil",
+    "author": "dragonfireclient",
+    "short_description": "Inventory utilities for dragonfire (Includes AutoRefill and AutoEject)",
+    "download_url": "https://github.com/dragonfireclient/invutil/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "karaoke",
+    "title": "karaoke",
+    "author": "dragonfireclient",
+    "short_description": "Dragonfire CSM to save and sing songs",
+    "download_url": "https://github.com/dragonfireclient/karaoke/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "killaura",
+    "title": "killaura",
+    "author": "dragonfireclient",
+    "short_description": "A dragonfire CSM that add Killaura and ForceField",
+    "download_url": "https://github.com/dragonfireclient/killaura/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "mclminer",
+    "title": "mclminer",
+    "author": "dragonfireclient",
+    "short_description": "Simple mining bot for mcl* - be careful this thing can kill you!",
+    "download_url": "https://github.com/dragonfireclient/mclminer/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "mcl_find_strongholds",
+    "title": "mcl_find_strongholds",
+    "author": "dragonfireclient",
+    "short_description": "Dragonfire CSM to find all mcla stronghold positions for a given seed",
+    "download_url": "https://github.com/dragonfireclient/mcl_find_strongholds/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "nametags",
+    "title": "nametags",
+    "author": "dragonfireclient",
+    "short_description": "",
+    "download_url": "https://github.com/dragonfireclient/nametags/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "nlist",
+    "title": "nlist",
+    "author": "dragonfireclient",
+    "short_description": "Dragonfire CSM to make editing lists more convenient.",
+    "download_url": "https://github.com/dragonfireclient/nlist/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "noweather",
+    "title": "noweather",
+    "author": "dragonfireclient",
+    "short_description": "A dragonfire CSM to disable weather effects",
+    "download_url": "https://github.com/dragonfireclient/noweather/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "open_inv",
+    "title": "open_inv",
+    "author": "dragonfireclient",
+    "short_description": "Open player inventory lists",
+    "download_url": "https://github.com/dragonfireclient/open_inv/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "pathfinding",
+    "title": "pathfinding",
+    "author": "dragonfireclient",
+    "short_description": "",
+    "download_url": "https://github.com/dragonfireclient/pathfinding/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "perlin",
+    "title": "perlin",
+    "author": "dragonfireclient",
+    "short_description": "",
+    "download_url": "https://github.com/dragonfireclient/perlin/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "physics_override",
+    "title": "physics_override",
+    "author": "dragonfireclient",
+    "short_description": "A dragonfire CSM to change your speed, gravity and jump speed using multipliers",
+    "download_url": "https://github.com/dragonfireclient/physics_override/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "poi",
+    "title": "poi",
+    "author": "dragonfireclient",
+    "short_description": "A POI system for dragonfire",
+    "download_url": "https://github.com/dragonfireclient/poi/archive/refs/heads/master.zip",
+    "raw_deps": "[{wasplib}]",
+    "type": "mod",
+    "release": 1
+  },
+  {
+    "name": "wasplib",
+    "title": "wasplib",
+    "author": "dragonfireclient",
+    "short_description": "CSM library functions",
+    "download_url": "https://github.com/dragonfireclient/wasplib/archive/refs/heads/master.zip",
+    "raw_deps": "",
+    "type": "mod",
+    "release": 1
+  }
 ]
